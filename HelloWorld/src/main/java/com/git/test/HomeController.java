@@ -34,8 +34,9 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		System.out.println("stmt : " + 123);
 		System.out.println("stmt : " + 456);
-		System.out.println("¸Ó¾ß1");
-		//한글꺠짐 		System.out.println("¿¬°áµÆ³ª?");
+		System.out.println("¸머야");
+		//해결함
+		System.out.println("됐냐 원격아?");
 		
 		return "home";
 	}
