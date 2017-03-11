@@ -35,6 +35,7 @@ public class HomeController {
 		System.out.println("stmt : " + 123);
 		System.out.println("stmt : " + 456);
 		System.out.println("머야1");
+		System.out.println("연결됐나?");
 		
 		return "home";
 	}
