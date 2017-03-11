@@ -38,6 +38,7 @@ public class HomeController {
 		//해결함
 		System.out.println("됐냐 원격아?");
 		// fetch		
+		System.out.println("workerA도 커밋이다.");
 		return "home";
 	}
 	
