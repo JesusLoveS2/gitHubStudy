@@ -37,7 +37,7 @@ public class HomeController {
 		System.out.println("¸머야");
 		//해결함
 		System.out.println("됐냐 원격아?");
-		
+		// fetch		
 		return "home";
 	}
 	
