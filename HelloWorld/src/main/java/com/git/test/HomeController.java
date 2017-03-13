@@ -39,6 +39,7 @@ public class HomeController {
 		System.out.println("됐냐 원격아?");
 		// fetch		
 		System.out.println("workerA도 커밋이다.");
+		System.out.println("git bash 성공함");
 		return "home";
 	}
 	
